@@ -1,5 +1,4 @@
-# inlaze
-#  Proyecto de Pruebas Automatizadas con Selenium IDE
+# Proyecto de Pruebas Automatizadas con Selenium IDE. Inlaze
 
 
 Este proyecto contiene un conjunto de pruebas automatizadas utilizando Selenium IDE
